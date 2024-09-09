@@ -70,9 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+### Diagram
+![amplifydiagrampic](https://github.com/user-attachments/assets/8a5e3e6e-576d-4417-a495-396291f29c74)
+### The Finale Result:
 ![BeFunky-collage (1)](https://github.com/user-attachments/assets/e7e254b4-369f-4506-b4d1-4027e11dcd2f)
 ![BeFunky-collage (2)](https://github.com/user-attachments/assets/d5a83022-e413-4702-9a2b-d9331d7256ad)
-![amplifydiagrampic](https://github.com/user-attachments/assets/8a5e3e6e-576d-4417-a495-396291f29c74)
+
 
 
 # amplify-cognito-quiz
