@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+
+# AWS Project – Building a React App with Amplify, Cognito, and CI/CD with GitHub!
+![react](https://github.com/user-attachments/assets/8eed20cd-d196-40bc-b5e3-fa3173f2c544)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Source Deploymeny: https://github.com/tinytechnicaltutorials/amplify-cognito-quiz.git
